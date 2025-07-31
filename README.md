@@ -33,3 +33,5 @@ When I'm not coding, you can usually find me training for my next marathon or di
 Excited to connect, collaborate, and learn together!
 
 [![Teo's GitHub stats](https://github-readme-stats.vercel.app/api?username=papacker)](https://github.com/anuraghazra/github-readme-stats)
+
+![Teo's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)

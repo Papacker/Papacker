@@ -23,7 +23,6 @@ I'm starting my journey as a **Bachelor of Engineering in Information and Commun
 ### 💬 Ask me about:
 
 * Cryptocurrency markets and trading strategies
-* Integrating ERP systems and automation
 * Getting started with Python and AI-driven analytics
 
 
